@@ -9,3 +9,32 @@
     <p>HTML stands for <b>HyperText Markup Language</b>.</p>
 </body>
 </html>
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Styled Webpage</title>
+    <style>
+        body {
+            background-color: #f0f8ff;
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin-top: 50px;
+        }
+        h1 {
+            color: #2e8b57;
+            font-size: 40px;
+        }
+        p {
+            color: #555;
+            font-size: 20px;
+        }
+        b {
+            color: #ff4500;
+        }
+    </style>
+</head>
+<body>
+    <h1>Welcome to My Webpage!</h1>
+    <p>This page is styled with <b>CSS</b>.</p>
+</body>
+</html>
